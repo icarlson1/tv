@@ -1,0 +1,675 @@
+#EXTM3U x-tvg-url="http://i.mjh.nz/nzau/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="tv.101406020625" tvg-logo="http://i.mjh.nz/au/images/tv.101406020625.png",TEN
+http://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
+
+#EXTINF:-1 tvg-id="tv.101406020628" tvg-logo="http://i.mjh.nz/au/images/tv.101406020628.png",10 Peach
+http://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
+
+#EXTINF:-1 tvg-id="tv.101406020621" tvg-logo="http://i.mjh.nz/au/images/tv.101406020621.png",10 Bold
+http://i.mjh.nz/au/Sydney/tv.101406020621.m3u8
+
+#EXTINF:-1 tvg-id="tv.101305020520" tvg-logo="http://i.mjh.nz/au/images/tv.101305020520.png",Seven
+http://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
+
+#EXTINF:-1 tvg-id="tv.101305020528" tvg-logo="http://i.mjh.nz/au/images/tv.101305020528.png",RACING.COM
+http://i.mjh.nz/au/Sydney/tv.101305020528.m3u8
+
+#EXTINF:-1 tvg-id="tv.7pac12" tvg-logo="http://i.mjh.nz/au/images/tv.7pac12.png",PAC-12
+http://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
+
+#EXTINF:-1 tvg-id="tv.7outdoor" tvg-logo="http://i.mjh.nz/au/images/tv.7outdoor.png",Outdoor Channel
+http://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
+
+#EXTINF:-1 tvg-id="tv.101305020523" tvg-logo="http://i.mjh.nz/au/images/tv.101305020523.png",7mate
+http://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
+
+#EXTINF:-1 tvg-id="tv.101305020527" tvg-logo="http://i.mjh.nz/au/images/tv.101305020527.png",7food network Sydney
+http://i.mjh.nz/au/Sydney/tv.101305020527.m3u8
+
+#EXTINF:-1 tvg-id="tv.101305020525" tvg-logo="http://i.mjh.nz/au/images/tv.101305020525.png",7flix
+http://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
+
+#EXTINF:-1 tvg-id="tv.101305020522" tvg-logo="http://i.mjh.nz/au/images/tv.101305020522.png",7TWO
+http://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
+
+#EXTINF:-1 tvg-id="tv.320203000307" tvg-logo="http://i.mjh.nz/au/images/tv.320203000307.png",SBS World Movies Sydney
+http://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
+
+#EXTINF:-1 tvg-id="tv.320203000303" tvg-logo="http://i.mjh.nz/au/images/tv.320203000303.png",SBS VICELAND HD
+http://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
+
+#EXTINF:-1 tvg-id="tv.320203000302" tvg-logo="http://i.mjh.nz/au/images/tv.320203000302.png",SBS VICELAND
+http://i.mjh.nz/au/Sydney/tv.320203000302.m3u8
+
+#EXTINF:-1 tvg-id="tv.320203000304" tvg-logo="http://i.mjh.nz/au/images/tv.320203000304.png",SBS Food
+http://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
+
+#EXTINF:-1 tvg-id="tv.320203000301" tvg-logo="http://i.mjh.nz/au/images/tv.320203000301.png",SBS
+http://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
+
+#EXTINF:-1 tvg-id="tv.320203000305" tvg-logo="http://i.mjh.nz/au/images/tv.320203000305.png",NITV
+http://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
+
+#EXTINF:-1 tvg-id="tv.101204200421" tvg-logo="http://i.mjh.nz/au/images/tv.101204200421.png",Channel 9
+http://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
+
+#EXTINF:-1 tvg-id="tv.101204200424" tvg-logo="http://i.mjh.nz/au/images/tv.101204200424.png",9Life
+http://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
+
+#EXTINF:-1 tvg-id="tv.101204200428" tvg-logo="http://i.mjh.nz/au/images/tv.101204200428.png",9Go!
+http://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
+
+#EXTINF:-1 tvg-id="tv.101204200427" tvg-logo="http://i.mjh.nz/au/images/tv.101204200427.png",9Gem
+http://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
+
+#EXTINF:-1 tvg-id="tv.101002210220" tvg-logo="http://i.mjh.nz/au/images/tv.101002210220.png",ABC NEWS
+http://i.mjh.nz/au/Sydney/tv.101002210220.m3u8
+
+#EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="http://i.mjh.nz/au/images/tv.101002210224.png",ABC ME
+http://i.mjh.nz/au/Sydney/tv.101002210224.m3u8
+
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="http://i.mjh.nz/au/images/tv.abckids.png",ABC KIDS
+http://i.mjh.nz/au/Sydney/tv.101002210222.m3u8
+
+#EXTINF:-1 tvg-id="tv.abc2" tvg-logo="http://i.mjh.nz/au/images/tv.abc2.png",ABC Comedy
+http://i.mjh.nz/au/Sydney/tv.abc2.m3u8
+
+#EXTINF:-1 tvg-id="tv.101002210221" tvg-logo="http://i.mjh.nz/au/images/tv.101002210221.png",ABC
+http://i.mjh.nz/au/Sydney/tv.101002210221.m3u8
+
+#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-logo="http://i.mjh.nz/au/images/tv.fox.sports.news.png",Fox Sports News
+http://i.mjh.nz/au/Sydney/tv.fox.sports.news.m3u8
+
+#EXTINF:-1 tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/au/images/tv.acctv.png",ACCTV
+http://i.mjh.nz/au/Sydney/tv.acctv.m3u8
+
+#EXTINF:-1 tvg-id="radio.ih.7116" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7116.png" radio="true",triplej Unearthed
+http://i.mjh.nz/au/Sydney/radio.ih.7116
+
+#EXTINF:-1 tvg-id="radio.ih.7115" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7115.png" radio="true",triplej
+http://i.mjh.nz/au/Sydney/radio.ih.7115
+
+#EXTINF:-1 tvg-id="radio.ih.7075" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7075.png" radio="true",iHeartYou
+http://i.mjh.nz/au/Sydney/radio.ih.7075
+
+#EXTINF:-1 tvg-id="radio.ih.6996" tvg-logo="http://i.mjh.nz/au/images/radio.ih.6996.png" radio="true",iHeartRadio Old Skool
+http://i.mjh.nz/au/Sydney/radio.ih.6996
+
+#EXTINF:-1 tvg-id="radio.ih.6941" tvg-logo="http://i.mjh.nz/au/images/radio.ih.6941.png" radio="true",iHeartRadio Dance
+http://i.mjh.nz/au/Sydney/radio.ih.6941
+
+#EXTINF:-1 tvg-id="radio.ih.6902" tvg-logo="http://i.mjh.nz/au/images/radio.ih.6902.png" radio="true",iHeartRadio Countdown AUS
+http://i.mjh.nz/au/Sydney/radio.ih.6902
+
+#EXTINF:-1 tvg-id="radio.ih.7222" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7222.png" radio="true",iHeartCountry Australia
+http://i.mjh.nz/au/Sydney/radio.ih.7222
+
+#EXTINF:-1 tvg-id="radio.ih.7050" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7050.png" radio="true",iHeartAustralia
+http://i.mjh.nz/au/Sydney/radio.ih.7050
+
+#EXTINF:-1 tvg-id="radio.triple.m.sydney" tvg-logo="http://i.mjh.nz/au/images/radio.triple.m.sydney.png" radio="true",Triple M Sydney
+http://i.mjh.nz/au/Sydney/radio.triple.m.sydney.m3u8
+
+#EXTINF:-1 tvg-id="radio.ih.7419" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7419.png" radio="true",The Faction Radio
+http://i.mjh.nz/au/Sydney/radio.ih.7419
+
+#EXTINF:-1 tvg-id="radio.ih.6180" tvg-logo="http://i.mjh.nz/au/images/radio.ih.6180.png" radio="true",The Edge Digital
+http://i.mjh.nz/au/Sydney/radio.ih.6180
+
+#EXTINF:-1 tvg-id="radio.ih.6179" tvg-logo="http://i.mjh.nz/au/images/radio.ih.6179.png" radio="true",The Edge
+http://i.mjh.nz/au/Sydney/radio.ih.6179
+
+#EXTINF:-1 tvg-id="radio.ih.6793" tvg-logo="http://i.mjh.nz/au/images/radio.ih.6793.png" radio="true",The 90s iHeartRadio
+http://i.mjh.nz/au/Sydney/radio.ih.6793
+
+#EXTINF:-1 tvg-id="radio.ih.6794" tvg-logo="http://i.mjh.nz/au/images/radio.ih.6794.png" radio="true",The 80s iHeartRadio
+http://i.mjh.nz/au/Sydney/radio.ih.6794
+
+#EXTINF:-1 tvg-id="radio.ih.7293" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7293.png" radio="true",Sydney Gay Lesbian Mardi Gras
+http://i.mjh.nz/au/Sydney/radio.ih.7293
+
+#EXTINF:-1 tvg-id="radio.smooth.fm" tvg-logo="http://i.mjh.nz/au/images/radio.smooth.fm.png" radio="true",SmoothFM 95.3
+http://i.mjh.nz/au/Sydney/radio.smooth.fm.aac
+
+#EXTINF:-1 tvg-id="radio.ih.8319" tvg-logo="http://i.mjh.nz/au/images/radio.ih.8319.png" radio="true",Sky News Radio
+http://i.mjh.nz/au/Sydney/radio.ih.8319
+
+#EXTINF:-1 tvg-id="radio.ih.7027" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7027.png" radio="true",SBS Radio 4
+http://i.mjh.nz/au/Sydney/radio.ih.7027
+
+#EXTINF:-1 tvg-id="radio.ih.7026" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7026.png" radio="true",SBS Radio 3
+http://i.mjh.nz/au/Sydney/radio.ih.7026
+
+#EXTINF:-1 tvg-id="radio.ih.7025" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7025.png" radio="true",SBS Radio 2
+http://i.mjh.nz/au/Sydney/radio.ih.7025
+
+#EXTINF:-1 tvg-id="radio.ih.6998" tvg-logo="http://i.mjh.nz/au/images/radio.ih.6998.png" radio="true",SBS Radio 1
+http://i.mjh.nz/au/Sydney/radio.ih.6998
+
+#EXTINF:-1 tvg-id="radio.ih.7031" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7031.png" radio="true",SBS PopDesi
+http://i.mjh.nz/au/Sydney/radio.ih.7031
+
+#EXTINF:-1 tvg-id="radio.ih.7028" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7028.png" radio="true",SBS PopAsia
+http://i.mjh.nz/au/Sydney/radio.ih.7028
+
+#EXTINF:-1 tvg-id="radio.ih.7029" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7029.png" radio="true",SBS Chill
+http://i.mjh.nz/au/Sydney/radio.ih.7029
+
+#EXTINF:-1 tvg-id="radio.ih.7030" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7030.png" radio="true",SBS Arabic24
+http://i.mjh.nz/au/Sydney/radio.ih.7030
+
+#EXTINF:-1 tvg-id="radio.ih.7415" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7415.png" radio="true",Radio Dead
+http://i.mjh.nz/au/Sydney/radio.ih.7415
+
+#EXTINF:-1 tvg-id="radio.ih.8005" tvg-logo="http://i.mjh.nz/au/images/radio.ih.8005.png" radio="true",Radio Australia
+http://i.mjh.nz/au/Sydney/radio.ih.8005
+
+#EXTINF:-1 tvg-id="radio.ih.7111" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7111.png" radio="true",RN
+http://i.mjh.nz/au/Sydney/radio.ih.7111
+
+#EXTINF:-1 tvg-id="radio.ih.6709" tvg-logo="http://i.mjh.nz/au/images/radio.ih.6709.png" radio="true",Macquarie Sports Radio Sydney
+http://i.mjh.nz/au/Sydney/radio.ih.6709
+
+#EXTINF:-1 tvg-id="radio.ih.6970" tvg-logo="http://i.mjh.nz/au/images/radio.ih.6970.png" radio="true",Little Rockers Radio
+http://i.mjh.nz/au/Sydney/radio.ih.6970
+
+#EXTINF:-1 tvg-id="radio.ih.7918" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7918.png" radio="true",Kinderling Kids Radio
+http://i.mjh.nz/au/Sydney/radio.ih.7918
+
+#EXTINF:-1 tvg-id="radio.ih.6185" tvg-logo="http://i.mjh.nz/au/images/radio.ih.6185.png" radio="true",KIIS 1065
+http://i.mjh.nz/au/Sydney/radio.ih.6185
+
+#EXTINF:-1 tvg-id="radio.ih.7260" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7260.png" radio="true",Guzman Y Gomez
+http://i.mjh.nz/au/Sydney/radio.ih.7260.aac
+
+#EXTINF:-1 tvg-id="radio.ih.8324" tvg-logo="http://i.mjh.nz/au/images/radio.ih.8324.png" radio="true",Gay Pop Radio
+http://i.mjh.nz/au/Sydney/radio.ih.8324
+
+#EXTINF:-1 tvg-id="radio.double.j" tvg-logo="http://i.mjh.nz/au/images/radio.double.j.png" radio="true",Double J
+http://i.mjh.nz/au/Sydney/radio.double.j
+
+#EXTINF:-1 tvg-id="radio.curtin.radio" tvg-logo="http://i.mjh.nz/au/images/radio.curtin.radio.png" radio="true",Curtin Radio
+http://i.mjh.nz/au/Sydney/radio.curtin.radio
+
+#EXTINF:-1 tvg-id="radio.ih.8317" tvg-logo="http://i.mjh.nz/au/images/radio.ih.8317.png" radio="true",Cricket World Cup
+http://i.mjh.nz/au/Sydney/radio.ih.8317
+
+#EXTINF:-1 tvg-id="radio.ih.6178" tvg-logo="http://i.mjh.nz/au/images/radio.ih.6178.png" radio="true",Chemist Warehouse Remix
+http://i.mjh.nz/au/Sydney/radio.ih.6178
+
+#EXTINF:-1 tvg-id="radio.ih.7308" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7308.png" radio="true",Bondi Radio
+http://i.mjh.nz/au/Sydney/radio.ih.7308
+
+#EXTINF:-1 tvg-id="radio.ih.6995" tvg-logo="http://i.mjh.nz/au/images/radio.ih.6995.png" radio="true",Asia Pop 40
+http://i.mjh.nz/au/Sydney/radio.ih.6995
+
+#EXTINF:-1 tvg-id="radio.ih.7421" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7421.png" radio="true",AndrewHaug.com Metal Radio
+http://i.mjh.nz/au/Sydney/radio.ih.7421
+
+#EXTINF:-1 tvg-id="radio.ih.7135" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7135.png" radio="true",ABC Radio Sydney
+http://i.mjh.nz/au/Sydney/radio.ih.7135
+
+#EXTINF:-1 tvg-id="radio.ih.7110" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7110.png" radio="true",ABC News
+http://i.mjh.nz/au/Sydney/radio.ih.7110
+
+#EXTINF:-1 tvg-id="radio.ih.7967" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7967.png" radio="true",ABC KIDS Listen
+http://i.mjh.nz/au/Sydney/radio.ih.7967
+
+#EXTINF:-1 tvg-id="radio.ih.7124" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7124.png" radio="true",ABC Jazz
+http://i.mjh.nz/au/Sydney/radio.ih.7124
+
+#EXTINF:-1 tvg-id="radio.ih.7112" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7112.png" radio="true",ABC Grandstand
+http://i.mjh.nz/au/Sydney/radio.ih.7112
+
+#EXTINF:-1 tvg-id="radio.ih.7125" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7125.png" radio="true",ABC Country
+http://i.mjh.nz/au/Sydney/radio.ih.7125
+
+#EXTINF:-1 tvg-id="radio.ih.7123" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7123.png" radio="true",ABC Classic 2
+http://i.mjh.nz/au/Sydney/radio.ih.7123
+
+#EXTINF:-1 tvg-id="radio.ih.7118" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7118.png" radio="true",ABC Classic
+http://i.mjh.nz/au/Sydney/radio.ih.7118
+
+#EXTINF:-1 tvg-id="radio.ih.7221" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7221.png" radio="true",2GB
+http://i.mjh.nz/au/Sydney/radio.ih.7221
+
+#EXTINF:-1 tvg-id="radio.ih.7220" tvg-logo="http://i.mjh.nz/au/images/radio.ih.7220.png" radio="true",2CH
+http://i.mjh.nz/au/Sydney/radio.ih.7220
+
+#EXTINF:-1 tvg-id="radio.ih.6186" tvg-logo="http://i.mjh.nz/au/images/radio.ih.6186.png" radio="true",101.7 WSFM
+http://i.mjh.nz/au/Sydney/radio.ih.6186
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="radio.ih.7317" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7317.png" radio="true",1 Double X
+http://i.mjh.nz/nz/radio.ih.7317
+
+#EXTINF:-1 tvg-id="radio.ih.6987" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6987.png" radio="true",80s Radio
+http://i.mjh.nz/nz/radio.ih.6987
+
+#EXTINF:-1 tvg-id="radio.ih.6693" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6693.png" radio="true",Alternative Comntry Collective
+http://i.mjh.nz/nz/radio.ih.6693
+
+#EXTINF:-1 tvg-id="radio.or.10" tvg-logo="http://i.mjh.nz/nz/images/radio.or.10.png" radio="true",BASE FM
+http://i.mjh.nz/nz/radio.or.10
+
+#EXTINF:-1 tvg-id="radio.ih.7944" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7944.png" radio="true",BAYROCK
+http://i.mjh.nz/nz/radio.ih.7944
+
+#EXTINF:-1 tvg-id="radio.or.17" tvg-logo="http://i.mjh.nz/nz/images/radio.or.17.png" radio="true",Brian FM Ashburton
+http://i.mjh.nz/nz/radio.or.17
+
+#EXTINF:-1 tvg-id="radio.ih.7391" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7391.png" radio="true",Central FM
+http://i.mjh.nz/nz/radio.ih.7391
+
+#EXTINF:-1 tvg-id="radio.or.29" tvg-logo="http://i.mjh.nz/nz/images/radio.or.29.png" radio="true",Channel Z
+http://i.mjh.nz/nz/radio.or.29
+
+#EXTINF:-1 tvg-id="radio.ih.7073" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7073.png" radio="true",Chinese Radio
+http://i.mjh.nz/nz/radio.ih.7073
+
+#EXTINF:-1 tvg-id="radio.ih.7072" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7072.png" radio="true",Chinese Voice
+http://i.mjh.nz/nz/radio.ih.7072
+
+#EXTINF:-1 tvg-id="radio.ih.6193" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6193.png" radio="true",Coast
+http://i.mjh.nz/nz/radio.ih.6193
+
+#EXTINF:-1 tvg-id="radio.ih.7383" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7383.png" radio="true",Coast Jukebox
+http://i.mjh.nz/nz/radio.ih.7383
+
+#EXTINF:-1 tvg-id="radio.ih.7756" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7756.png" radio="true",Coast Tauranga/Coromandel
+http://i.mjh.nz/nz/radio.ih.7756
+
+#EXTINF:-1 tvg-id="radio.ih.6465" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6465.png" radio="true",Country Nation
+http://i.mjh.nz/nz/radio.ih.6465
+
+#EXTINF:-1 tvg-id="radio.ih.6159" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6159.png" radio="true",Flava
+http://i.mjh.nz/nz/radio.ih.6159
+
+#EXTINF:-1 tvg-id="radio.ih.6632" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6632.png" radio="true",Flava Old School
+http://i.mjh.nz/nz/radio.ih.6632
+
+#EXTINF:-1 tvg-id="radio.or.6" tvg-logo="http://i.mjh.nz/nz/images/radio.or.6.png" radio="true",George FM
+http://i.mjh.nz/nz/radio.or.6.m3u8
+
+#EXTINF:-1 tvg-id="radio.or.25" tvg-logo="http://i.mjh.nz/nz/images/radio.or.25.png" radio="true",George FM Manawatu
+http://i.mjh.nz/nz/radio.or.25.m3u8
+
+#EXTINF:-1 tvg-id="radio.ih.8010" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8010.png" radio="true",Good Vibes Mixshow
+http://i.mjh.nz/nz/radio.ih.8010
+
+#EXTINF:-1 tvg-id="radio.ih.6374" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6374.png" radio="true",Hauraki Classic Rock
+http://i.mjh.nz/nz/radio.ih.6374
+
+#EXTINF:-1 tvg-id="radio.ih.7113" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7113.png" radio="true",Heads 106.4FM Mangawhai
+http://i.mjh.nz/nz/radio.ih.7113
+
+#EXTINF:-1 tvg-id="radio.ih.6196" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6196.png" radio="true",Hokonui
+http://i.mjh.nz/nz/radio.ih.6196
+
+#EXTINF:-1 tvg-id="radio.ih.8011" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8011.png" radio="true",Hokonui Ashburton
+http://i.mjh.nz/nz/radio.ih.8011
+
+#EXTINF:-1 tvg-id="radio.ih.7799" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7799.png" radio="true",Hokonui Taranaki
+http://i.mjh.nz/nz/radio.ih.7799
+
+#EXTINF:-1 tvg-id="radio.ih.7633" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7633.png" radio="true",Humm FM
+http://i.mjh.nz/nz/radio.ih.7633
+
+#EXTINF:-1 tvg-id="radio.ih.7074" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7074.png" radio="true",K Radio
+http://i.mjh.nz/nz/radio.ih.7074
+
+#EXTINF:-1 tvg-id="radio.ih.7037" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7037.png" radio="true",Kiwi Summer Roadie
+http://i.mjh.nz/nz/radio.ih.7037
+
+#EXTINF:-1 tvg-id="radio.ih.6938" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6938.png" radio="true",Life FM
+http://i.mjh.nz/nz/radio.ih.6938
+
+#EXTINF:-1 tvg-id="radio.ih.7401" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7401.png" radio="true",Lyall Bay School's Maranui FM
+http://i.mjh.nz/nz/radio.ih.7401
+
+#EXTINF:-1 tvg-id="radio.or.14" tvg-logo="http://i.mjh.nz/nz/images/radio.or.14.png" radio="true",Magic
+http://i.mjh.nz/nz/radio.or.14.m3u8
+
+#EXTINF:-1 tvg-id="radio.or.26" tvg-logo="http://i.mjh.nz/nz/images/radio.or.26.png" radio="true",Magic Manawatu
+http://i.mjh.nz/nz/radio.or.26.m3u8
+
+#EXTINF:-1 tvg-id="radio.or.3" tvg-logo="http://i.mjh.nz/nz/images/radio.or.3.png" radio="true",Mai FM
+http://i.mjh.nz/nz/radio.or.3.m3u8
+
+#EXTINF:-1 tvg-id="radio.or.22" tvg-logo="http://i.mjh.nz/nz/images/radio.or.22.png" radio="true",Mai FM Manawatu
+http://i.mjh.nz/nz/radio.or.22.m3u8
+
+#EXTINF:-1 tvg-id="radio.ih.8299" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8299.png" radio="true",Marathon Radio
+http://i.mjh.nz/nz/radio.ih.8299
+
+#EXTINF:-1 tvg-id="radio.ih.7168" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7168.png" radio="true",Mix
+http://i.mjh.nz/nz/radio.ih.7168
+
+#EXTINF:-1 tvg-id="radio.ih.8199" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8199.png" radio="true",Moana Radio
+http://i.mjh.nz/nz/radio.ih.8199
+
+#EXTINF:-1 tvg-id="radio.ih.8151" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8151.png" radio="true",Moods - Balance
+http://i.mjh.nz/nz/radio.ih.8151
+
+#EXTINF:-1 tvg-id="radio.ih.8152" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8152.png" radio="true",Moods - Calm
+http://i.mjh.nz/nz/radio.ih.8152
+
+#EXTINF:-1 tvg-id="radio.ih.8150" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8150.png" radio="true",Moods - Exhilarating
+http://i.mjh.nz/nz/radio.ih.8150
+
+#EXTINF:-1 tvg-id="radio.ih.8153" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8153.png" radio="true",Moods - Focus
+http://i.mjh.nz/nz/radio.ih.8153
+
+#EXTINF:-1 tvg-id="radio.ih.8155" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8155.png" radio="true",Moods - Inspire
+http://i.mjh.nz/nz/radio.ih.8155
+
+#EXTINF:-1 tvg-id="radio.ih.8154" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8154.png" radio="true",Moods - Mellow
+http://i.mjh.nz/nz/radio.ih.8154
+
+#EXTINF:-1 tvg-id="radio.or.2" tvg-logo="http://i.mjh.nz/nz/images/radio.or.2.png" radio="true",More FM
+http://i.mjh.nz/nz/radio.or.2.m3u8
+
+#EXTINF:-1 tvg-id="radio.or.19" tvg-logo="http://i.mjh.nz/nz/images/radio.or.19.png" radio="true",More FM Manawatu
+http://i.mjh.nz/nz/radio.or.19.m3u8
+
+#EXTINF:-1 tvg-id="radio.ih.6965" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6965.png" radio="true",NBR Radio
+http://i.mjh.nz/nz/radio.ih.6965
+
+#EXTINF:-1 tvg-id="radio.ih.6491" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6491.png" radio="true",NZ Top 40
+http://i.mjh.nz/nz/radio.ih.6491
+
+#EXTINF:-1 tvg-id="radio.ih.6187" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6187.png" radio="true",Newstalk ZB
+http://i.mjh.nz/nz/radio.ih.6187
+
+#EXTINF:-1 tvg-id="radio.ih.6189" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6189.png" radio="true",Newstalk ZB Christchurch
+http://i.mjh.nz/nz/radio.ih.6189
+
+#EXTINF:-1 tvg-id="radio.ih.6188" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6188.png" radio="true",Newstalk ZB Wellington
+http://i.mjh.nz/nz/radio.ih.6188
+
+#EXTINF:-1 tvg-id="radio.ih.6373" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6373.png" radio="true",Official NZ Top 20
+http://i.mjh.nz/nz/radio.ih.6373
+
+#EXTINF:-1 tvg-id="radio.ih.7814" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7814.png" radio="true",Our Lounge
+http://i.mjh.nz/nz/radio.ih.7814
+
+#EXTINF:-1 tvg-id="radio.ih.7864" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7864.png" radio="true",Pulzar FM
+http://i.mjh.nz/nz/radio.ih.7864
+
+#EXTINF:-1 tvg-id="radio.ih.7945" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7945.png" radio="true",Q97
+http://i.mjh.nz/nz/radio.ih.7945
+
+#EXTINF:-1 tvg-id="radio.or.9" tvg-logo="http://i.mjh.nz/nz/images/radio.or.9.png" radio="true",RDU
+http://i.mjh.nz/nz/radio.or.9
+
+#EXTINF:-1 tvg-id="radio.ih.6868" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6868.png" radio="true",RNZ Pacific
+http://i.mjh.nz/nz/radio.ih.6868
+
+#EXTINF:-1 tvg-id="radio.or.12" tvg-logo="http://i.mjh.nz/nz/images/radio.or.12.png" radio="true",Radio Active
+http://i.mjh.nz/nz/radio.or.12
+
+#EXTINF:-1 tvg-id="radio.or.13" tvg-logo="http://i.mjh.nz/nz/images/radio.or.13.png" radio="true",Radio Control
+http://i.mjh.nz/nz/radio.or.13
+
+#EXTINF:-1 tvg-id="radio.ih.6191" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6191.png" radio="true",Radio Hauraki
+http://i.mjh.nz/nz/radio.ih.6191
+
+#EXTINF:-1 tvg-id="radio.or.7" tvg-logo="http://i.mjh.nz/nz/images/radio.or.7.png" radio="true",Radio Live
+http://i.mjh.nz/nz/radio.or.7.m3u8
+
+#EXTINF:-1 tvg-id="radio.or.27" tvg-logo="http://i.mjh.nz/nz/images/radio.or.27.png" radio="true",Radio Live Manawatu
+http://i.mjh.nz/nz/radio.or.27.m3u8
+
+#EXTINF:-1 tvg-id="radio.ih.6867" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6867.png" radio="true",Radio New Zealand Concert
+http://i.mjh.nz/nz/radio.ih.6867
+
+#EXTINF:-1 tvg-id="radio.ih.6866" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6866.png" radio="true",Radio New Zealand National
+http://i.mjh.nz/nz/radio.ih.6866
+
+#EXTINF:-1 tvg-id="radio.ih.8200" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8200.png" radio="true",Radio Ngati Porou
+http://i.mjh.nz/nz/radio.ih.8200
+
+#EXTINF:-1 tvg-id="radio.ih.6194" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6194.png" radio="true",Radio Sport
+http://i.mjh.nz/nz/radio.ih.6194
+
+#EXTINF:-1 tvg-id="radio.ih.6218" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6218.png" radio="true",Radio Sport Extra
+http://i.mjh.nz/nz/radio.ih.6218
+
+#EXTINF:-1 tvg-id="radio.ih.6799" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6799.png" radio="true",Radio Sport Extra 2
+http://i.mjh.nz/nz/radio.ih.6799
+
+#EXTINF:-1 tvg-id="radio.ih.8177" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8177.png" radio="true",Radio Tainui
+http://i.mjh.nz/nz/radio.ih.8177
+
+#EXTINF:-1 tvg-id="radio.ih.6676" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6676.png" radio="true",Radio Tarana
+http://i.mjh.nz/nz/radio.ih.6676
+
+#EXTINF:-1 tvg-id="radio.ih.8193" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8193.png" radio="true",Radio Waatea
+http://i.mjh.nz/nz/radio.ih.8193
+
+#EXTINF:-1 tvg-id="radio.or.15" tvg-logo="http://i.mjh.nz/nz/images/radio.or.15.png" radio="true",Radio Waatea
+http://i.mjh.nz/nz/radio.or.15.aac
+
+#EXTINF:-1 tvg-id="radio.ih.7300" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7300.png" radio="true",Radio Wanaka
+http://i.mjh.nz/nz/radio.ih.7300
+
+#EXTINF:-1 tvg-id="radio.or.18" tvg-logo="http://i.mjh.nz/nz/images/radio.or.18.png" radio="true",Radio X
+http://i.mjh.nz/nz/radio.or.18
+
+#EXTINF:-1 tvg-id="radio.ih.7782" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7782.png" radio="true",Real Radio
+http://i.mjh.nz/nz/radio.ih.7782
+
+#EXTINF:-1 tvg-id="radio.ih.6937" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6937.png" radio="true",Rhema
+http://i.mjh.nz/nz/radio.ih.6937
+
+#EXTINF:-1 tvg-id="radio.ih.7301" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7301.png" radio="true",Roy FM
+http://i.mjh.nz/nz/radio.ih.7301
+
+#EXTINF:-1 tvg-id="radio.ih.8178" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8178.png" radio="true",SUN FM
+http://i.mjh.nz/nz/radio.ih.8178
+
+#EXTINF:-1 tvg-id="radio.ih.7156" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7156.png" radio="true",Ski FM Network
+http://i.mjh.nz/nz/radio.ih.7156
+
+#EXTINF:-1 tvg-id="radio.ih.6720" tvg-logo="http://iptv.matthuisman.nz/nz/images/radio.ih.6720.png" radio="true",Sounds Like Christmas
+http://i.mjh.nz/nz/radio.ih.6720
+
+#EXTINF:-1 tvg-id="radio.ih.6939" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6939.png" radio="true",Southern Star
+http://i.mjh.nz/nz/radio.ih.6939
+
+#EXTINF:-1 tvg-id="radio.or.28" tvg-logo="http://i.mjh.nz/nz/images/radio.or.28.png" radio="true",TAB Trackside Radio
+http://i.mjh.nz/nz/radio.or.28.m3u8
+
+#EXTINF:-1 tvg-id="radio.ih.7820" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7820.png" radio="true",TE PATU MANAWA
+http://i.mjh.nz/nz/radio.ih.7820
+
+#EXTINF:-1 tvg-id="radio.ih.8243" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8243.png" radio="true",Te Arawa FM
+http://i.mjh.nz/nz/radio.ih.8243
+
+#EXTINF:-1 tvg-id="radio.ih.8183" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8183.png" radio="true",Te Hiku Radio
+http://i.mjh.nz/nz/radio.ih.8183
+
+#EXTINF:-1 tvg-id="radio.ih.8203" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8203.png" radio="true",Te Korimako o Taranaki
+http://i.mjh.nz/nz/radio.ih.8203
+
+#EXTINF:-1 tvg-id="radio.ih.8202" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8202.png" radio="true",Te Upoko O Te Ika
+http://i.mjh.nz/nz/radio.ih.8202
+
+#EXTINF:-1 tvg-id="radio.ih.6848" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6848.png" radio="true",The Axe Attack
+http://i.mjh.nz/nz/radio.ih.6848
+
+#EXTINF:-1 tvg-id="radio.or.4" tvg-logo="http://i.mjh.nz/nz/images/radio.or.4.png" radio="true",The Breeze
+http://i.mjh.nz/nz/radio.or.4.m3u8
+
+#EXTINF:-1 tvg-id="radio.or.20" tvg-logo="http://i.mjh.nz/nz/images/radio.or.20.png" radio="true",The Breeze Manawatu
+http://i.mjh.nz/nz/radio.or.20.m3u8
+
+#EXTINF:-1 tvg-id="radio.or.11" tvg-logo="http://i.mjh.nz/nz/images/radio.or.11.png" radio="true",The Cheese
+http://i.mjh.nz/nz/radio.or.11
+
+#EXTINF:-1 tvg-id="radio.ih.7159" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7159.png" radio="true",The Country
+http://i.mjh.nz/nz/radio.ih.7159
+
+#EXTINF:-1 tvg-id="radio.or.8" tvg-logo="http://i.mjh.nz/nz/images/radio.or.8.png" radio="true",The Edge
+http://i.mjh.nz/nz/radio.or.8.m3u8
+
+#EXTINF:-1 tvg-id="radio.or.21" tvg-logo="http://i.mjh.nz/nz/images/radio.or.21.png" radio="true",The Edge Manawatu
+http://i.mjh.nz/nz/radio.or.21.m3u8
+
+#EXTINF:-1 tvg-id="radio.ih.7894" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7894.png" radio="true",The Garage
+http://i.mjh.nz/nz/radio.ih.7894
+
+#EXTINF:-1 tvg-id="radio.ih.7946" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7946.png" radio="true",The Heat
+http://i.mjh.nz/nz/radio.ih.7946
+
+#EXTINF:-1 tvg-id="radio.ih.6197" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6197.png" radio="true",The Hits
+http://i.mjh.nz/nz/radio.ih.6197
+
+#EXTINF:-1 tvg-id="radio.ih.7213" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7213.png" radio="true",The Hits 90s Bus
+http://i.mjh.nz/nz/radio.ih.7213
+
+#EXTINF:-1 tvg-id="radio.ih.6202" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6202.png" radio="true",The Hits Bay of Plenty
+http://i.mjh.nz/nz/radio.ih.6202
+
+#EXTINF:-1 tvg-id="radio.ih.6199" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6199.png" radio="true",The Hits Christchurch
+http://i.mjh.nz/nz/radio.ih.6199
+
+#EXTINF:-1 tvg-id="radio.ih.7755" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7755.png" radio="true",The Hits Coromandel
+http://i.mjh.nz/nz/radio.ih.7755
+
+#EXTINF:-1 tvg-id="radio.ih.6203" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6203.png" radio="true",The Hits Dunedin
+http://i.mjh.nz/nz/radio.ih.6203
+
+#EXTINF:-1 tvg-id="radio.ih.6212" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6212.png" radio="true",The Hits Gisborne
+http://i.mjh.nz/nz/radio.ih.6212
+
+#EXTINF:-1 tvg-id="radio.ih.6204" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6204.png" radio="true",The Hits Hawkes Bay
+http://i.mjh.nz/nz/radio.ih.6204
+
+#EXTINF:-1 tvg-id="radio.ih.6205" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6205.png" radio="true",The Hits Manawatu
+http://i.mjh.nz/nz/radio.ih.6205
+
+#EXTINF:-1 tvg-id="radio.ih.6206" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6206.png" radio="true",The Hits Nelson
+http://i.mjh.nz/nz/radio.ih.6206
+
+#EXTINF:-1 tvg-id="radio.ih.6207" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6207.png" radio="true",The Hits Northland
+http://i.mjh.nz/nz/radio.ih.6207
+
+#EXTINF:-1 tvg-id="radio.ih.6208" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6208.png" radio="true",The Hits Rotorua
+http://i.mjh.nz/nz/radio.ih.6208
+
+#EXTINF:-1 tvg-id="radio.ih.6897" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6897.png" radio="true",The Hits Southern Lakes
+http://i.mjh.nz/nz/radio.ih.6897
+
+#EXTINF:-1 tvg-id="radio.ih.6209" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6209.png" radio="true",The Hits Southland
+http://i.mjh.nz/nz/radio.ih.6209
+
+#EXTINF:-1 tvg-id="radio.ih.6210" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6210.png" radio="true",The Hits Taranaki
+http://i.mjh.nz/nz/radio.ih.6210
+
+#EXTINF:-1 tvg-id="radio.ih.6216" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6216.png" radio="true",The Hits Timaru
+http://i.mjh.nz/nz/radio.ih.6216
+
+#EXTINF:-1 tvg-id="radio.ih.6211" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6211.png" radio="true",The Hits Waikato
+http://i.mjh.nz/nz/radio.ih.6211
+
+#EXTINF:-1 tvg-id="radio.ih.6198" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6198.png" radio="true",The Hits Wellington
+http://i.mjh.nz/nz/radio.ih.6198
+
+#EXTINF:-1 tvg-id="radio.ih.6217" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6217.png" radio="true",The Hits West Coast
+http://i.mjh.nz/nz/radio.ih.6217
+
+#EXTINF:-1 tvg-id="radio.ih.7265" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7265.png" radio="true",The Lounge
+http://i.mjh.nz/nz/radio.ih.7265
+
+#EXTINF:-1 tvg-id="radio.ih.6718" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6718.png" radio="true",The Pulse
+http://i.mjh.nz/nz/radio.ih.6718
+
+#EXTINF:-1 tvg-id="radio.or.1" tvg-logo="http://i.mjh.nz/nz/images/radio.or.1.png" radio="true",The Rock
+http://i.mjh.nz/nz/radio.or.1.m3u8
+
+#EXTINF:-1 tvg-id="radio.or.23" tvg-logo="http://i.mjh.nz/nz/images/radio.or.23.png" radio="true",The Rock Manawatu
+http://i.mjh.nz/nz/radio.or.23.m3u8
+
+#EXTINF:-1 tvg-id="radio.or.5" tvg-logo="http://i.mjh.nz/nz/images/radio.or.5.png" radio="true",The Sound
+http://i.mjh.nz/nz/radio.or.5.m3u8
+
+#EXTINF:-1 tvg-id="radio.or.24" tvg-logo="http://i.mjh.nz/nz/images/radio.or.24.png" radio="true",The Sound Manawatu
+http://i.mjh.nz/nz/radio.or.24.m3u8
+
+#EXTINF:-1 tvg-id="radio.ih.7429" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7429.png" radio="true",The Station
+http://i.mjh.nz/nz/radio.ih.7429
+
+#EXTINF:-1 tvg-id="radio.ih.7114" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7114.png" radio="true",The Wireless 90.4FM
+http://i.mjh.nz/nz/radio.ih.7114
+
+#EXTINF:-1 tvg-id="radio.or.16" tvg-logo="http://i.mjh.nz/nz/images/radio.or.16.png" radio="true",Triple X FM
+http://i.mjh.nz/nz/radio.or.16
+
+#EXTINF:-1 tvg-id="radio.ih.8179" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8179.png" radio="true",Tumeke FM
+http://i.mjh.nz/nz/radio.ih.8179
+
+#EXTINF:-1 tvg-id="radio.ih.8204" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.8204.png" radio="true",Turanga FM
+http://i.mjh.nz/nz/radio.ih.8204
+
+#EXTINF:-1 tvg-id="radio.ih.6190" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6190.png" radio="true",ZM
+http://i.mjh.nz/nz/radio.ih.6190
+
+#EXTINF:-1 tvg-id="radio.ih.6776" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.6776.png" radio="true",ZM DMA
+http://i.mjh.nz/nz/radio.ih.6776
+
+#EXTINF:-1 tvg-id="radio.ih.7316" tvg-logo="http://i.mjh.nz/nz/images/radio.ih.7316.png" radio="true",ZM Friday Jams
+http://i.mjh.nz/nz/radio.ih.7316
+
+#EXTINF:-1 tvg-id="tv.9" tvg-logo="http://i.mjh.nz/nz/images/tv.9.png" tvg-chno="1",TVNZ 1
+http://i.mjh.nz/nz/tv.9.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/nz/images/tv.10.png" tvg-chno="2",TVNZ 2
+http://i.mjh.nz/nz/tv.10.m3u8
+
+#EXTINF:-1 tvg-id="tv.11" tvg-logo="http://i.mjh.nz/nz/images/tv.11.png" tvg-chno="3",Three
+http://i.mjh.nz/nz/tv.11.m3u8
+
+#EXTINF:-1 tvg-id="tv.12" tvg-logo="http://i.mjh.nz/nz/images/tv.12.png" tvg-chno="4",Bravo
+http://i.mjh.nz/nz/tv.12.m3u8
+
+#EXTINF:-1 tvg-id="tv.13" tvg-logo="http://i.mjh.nz/nz/images/tv.13.png" tvg-chno="5",Māori Television
+http://i.mjh.nz/nz/tv.13.m3u8
+
+#EXTINF:-1 tvg-id="tv.65" tvg-logo="http://i.mjh.nz/nz/images/tv.65.png" tvg-chno="11",ThreeLife
+http://i.mjh.nz/nz/tv.65.m3u8
+
+#EXTINF:-1 tvg-id="tv.55" tvg-logo="http://i.mjh.nz/nz/images/tv.55.png" tvg-chno="13",DUKE
+http://i.mjh.nz/nz/tv.55.m3u8
+
+#EXTINF:-1 tvg-id="tv.20" tvg-logo="http://i.mjh.nz/nz/images/tv.20.png" tvg-chno="15",Te Reo
+http://i.mjh.nz/nz/tv.20.m3u8
+
+#EXTINF:-1 tvg-id="tv.46" tvg-logo="http://i.mjh.nz/nz/images/tv.46.png" tvg-chno="16",Al Jazeera
+http://i.mjh.nz/nz/tv.46.m3u8
+
+#EXTINF:-1 tvg-id="tv.45" tvg-logo="http://i.mjh.nz/nz/images/tv.45.png" tvg-chno="20",TVSN Shopping
+http://i.mjh.nz/nz/tv.45.m3u8
+
+#EXTINF:-1 tvg-id="tv.39" tvg-logo="http://i.mjh.nz/nz/images/tv.39.png" tvg-chno="26",Firstlight
+rtmp://streamer1.streamhost.org/salive/GMIFLNL
+
+#EXTINF:-1 tvg-id="tv.18" tvg-logo="http://i.mjh.nz/nz/images/tv.18.png" tvg-chno="31",Parliament TV
+http://i.mjh.nz/nz/tv.18.m3u8
+
+#EXTINF:-1 tvg-id="tv.63" tvg-logo="http://i.mjh.nz/nz/images/tv.63.png" tvg-chno="37",Panda TV
+http://i.mjh.nz/nz/tv.63.m3u8
+
+#EXTINF:-1 tvg-id="tv.60" tvg-logo="http://i.mjh.nz/nz/images/tv.60.png" tvg-chno="41",Wairarapa TV
+http://i.mjh.nz/nz/tv.60.m3u8
+
+#EXTINF:-1 tvg-id="tv.51" tvg-logo="http://i.mjh.nz/nz/images/tv.51.png" tvg-chno="114",The Edge TV
+http://i.mjh.nz/nz/tv.51.m3u8
+
+#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="http://iptv.matthuisman.nz/nz/images/tv.redbull.tv.png",Redbull TV
+http://i.mjh.nz/nz/tv.redbull.tv.m3u8
